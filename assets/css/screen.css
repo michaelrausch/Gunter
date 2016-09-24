@@ -479,7 +479,7 @@ img {
 .main-header {
   text-align: center;
   /*padding: 35px 0 50px 0;*/
-  height: 400px;
+  height: 350px;
 
   background: #43cea2; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #43cea2 , #185a9d); /* Chrome 10-25, Safari 5.1-6 */
@@ -509,7 +509,7 @@ img {
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  padding-top:100px;
+  padding-top:200px;
 }
 
 .main-header .title h1 {
